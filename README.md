@@ -1,0 +1,1 @@
+# protout-class
